@@ -1,5 +1,13 @@
 module Ch3_2 where
 
+<<<<<<< HEAD
+=======
+    import Lib
+    import Data.Char
+    import Prelude
+    
+    
+>>>>>>> master
     -------3.2 List comprehensions
     
     --[<expression> | <qualifier> , ... , <qualifier>]
